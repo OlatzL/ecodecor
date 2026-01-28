@@ -1,0 +1,93 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background - Light beige walls -->
+  <rect width="800" height="800" fill="#EAE0D5"/>
+  
+  <!-- Floor - Medium wood -->
+  <rect y="600" width="800" height="200" fill="#C9A980"/>
+  <line x1="0" y1="640" x2="800" y2="640" stroke="#B89870" stroke-width="2"/>
+  <line x1="0" y1="680" x2="800" y2="680" stroke="#B89870" stroke-width="2"/>
+  <line x1="0" y1="720" x2="800" y2="720" stroke="#B89870" stroke-width="2"/>
+  <line x1="0" y1="760" x2="800" y2="760" stroke="#B89870" stroke-width="2"/>
+  
+  <!-- Large Window with natural light -->
+  <rect x="80" y="60" width="320" height="380" fill="#B8E6F0" stroke="#A08060" stroke-width="12"/>
+  <line x1="240" y1="60" x2="240" y2="440" stroke="#A08060" stroke-width="8"/>
+  <line x1="80" y1="250" x2="400" y2="250" stroke="#A08060" stroke-width="8"/>
+  
+  <!-- Window panes with sky -->
+  <rect x="92" y="72" width="136" height="166" fill="#D0F0FA"/>
+  <rect x="252" y="72" width="136" height="166" fill="#D0F0FA"/>
+  <rect x="92" y="262" width="136" height="166" fill="#D0F0FA"/>
+  <rect x="252" y="262" width="136" height="166" fill="#D0F0FA"/>
+  
+  <!-- Wooden shelves on right wall -->
+  <rect x="450" y="150" width="280" height="16" fill="#A08060"/>
+  <rect x="450" y="250" width="280" height="16" fill="#A08060"/>
+  <rect x="450" y="350" width="280" height="16" fill="#A08060"/>
+  
+  <!-- Decorative vases and plants on shelves -->
+  <!-- Top shelf -->
+  <ellipse cx="500" cy="140" rx="22" ry="28" fill="#789D91"/>
+  <ellipse cx="500" cy="135" rx="18" ry="22" fill="#8BAD9F"/>
+  <rect x="560" y="125" width="35" height="45" fill="#C9A980"/>
+  <circle cx="640" cy="135" r="20" fill="#B8C5B0"/>
+  <rect x="680" y="120" width="30" height="50" fill="#789D91"/>
+  
+  <!-- Middle shelf -->
+  <rect x="470" y="220" width="40" height="55" fill="#A08060"/>
+  <ellipse cx="560" cy="235" rx="25" ry="32" fill="#B8C5B0"/>
+  <ellipse cx="560" cy="230" rx="20" ry="25" fill="#8BAD9F"/>
+  <circle cx="650" cy="235" r="22" fill="#789D91"/>
+  <rect x="690" y="225" width="30" height="45" fill="#D4B896"/>
+  
+  <!-- Bottom shelf -->
+  <ellipse cx="500" cy="335" rx="28" ry="35" fill="#8BAD9F"/>
+  <rect x="560" y="320" width="45" height="60" fill="#789D91"/>
+  <circle cx="650" cy="335" r="25" fill="#C9A980"/>
+  
+  <!-- Minimalist sofa/couch -->
+  <rect x="80" y="460" width="280" height="140" fill="#D4B896"/>
+  <rect x="90" y="470" width="260" height="100" fill="#E5D4B8"/>
+  <!-- Armrests -->
+  <rect x="80" y="460" width="40" height="120" fill="#C9A980"/>
+  <rect x="320" y="460" width="40" height="120" fill="#C9A980"/>
+  <!-- Cushions -->
+  <rect x="120" y="480" width="70" height="70" fill="#B8C5B0"/>
+  <rect x="210" y="480" width="70" height="70" fill="#789D91"/>
+  
+  <!-- Side table -->
+  <rect x="420" y="480" width="140" height="120" fill="#A08060"/>
+  <rect x="430" y="490" width="120" height="90" fill="#C9A980"/>
+  <!-- Table legs -->
+  <rect x="430" y="565" width="20" height="35" fill="#8B6040"/>
+  <rect x="530" y="565" width="20" height="35" fill="#8B6040"/>
+  
+  <!-- Large plant on side table -->
+  <ellipse cx="490" cy="510" rx="35" ry="45" fill="#789D91"/>
+  <ellipse cx="490" cy="515" rx="28" ry="38" fill="#8BAD9F"/>
+  <ellipse cx="480" cy="500" rx="20" ry="25" fill="#B8C5B0"/>
+  <ellipse cx="500" cy="505" rx="18" ry="22" fill="#6A8D81"/>
+  <!-- Pot -->
+  <rect x="475" y="530" width="30" height="35" fill="#A08060"/>
+  <polygon points="475,530 505,530 510,545 470,545" fill="#8B6040"/>
+  
+  <!-- Wall art/frame -->
+  <rect x="440" y="420" width="180" height="130" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="6"/>
+  <circle cx="530" cy="485" r="40" fill="#B8C5B0" opacity="0.5"/>
+  <circle cx="510" cy="465" r="30" fill="#789D91" opacity="0.4"/>
+  <circle cx="550" cy="490" r="25" fill="#C9A980" opacity="0.3"/>
+  
+  <!-- Floor lamp in corner -->
+  <line x1="740" y1="420" x2="740" y2="600" stroke="#8B6040" stroke-width="6"/>
+  <circle cx="740" cy="410" r="30" fill="#F5E6D3"/>
+  <path d="M 710 410 Q 740 380 770 410" fill="#E5D4B8" stroke="#C9A980" stroke-width="2"/>
+  
+  <!-- Small rug on floor -->
+  <ellipse cx="490" cy="660" rx="120" ry="35" fill="#8BAD9F" opacity="0.7"/>
+  <ellipse cx="490" cy="660" rx="100" ry="28" fill="#B8C5B0" opacity="0.5"/>
+  
+  <!-- Decorative details -->
+  <text x="400" y="785" font-family="Arial, sans-serif" font-size="20" fill="#5A5A5A" text-anchor="middle">
+    Habitación Estilo Nórdico
+  </text>
+</svg>
